@@ -1,0 +1,11 @@
+Examples of phishing senders email :- 
+    1. desktop-support@securesupportcloud[.]com
+    2. british-airways@alerting-services[.]com 
+    3. transport-for-london-support@alerting-services[.]com
+
+This is who the email appears to come from. It’s one of the first things a recipient sees, and it needs to match the theme of the phishing email.
+
+For example, if you’re sending a phishing email that’s masquerading as a bank, the sender address should use a display name that includes the banks name, and the email address should either use a lookalike domain, obscure domain with a lookalike local-part address or even spoof the domain if possible.
+
+Lets analyse why the first one legit: 
+      It is email sent from a service which provides cloud secure services on the desktop. We can decipher this from the senders email itself.
