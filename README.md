@@ -30,7 +30,7 @@ Deliverables: A report listing phishing indicators found
 Outcome: : Awareness of phishing tactics and email threat analysis skills.
 Key Concepts: Phishing, email spoofing, header analysis, social engineering, threat detection
 
-#Interview Questions:
+# Interview Questions:
 
 1.What is phishing?
 
