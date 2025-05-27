@@ -1,0 +1,54 @@
+Suspicious Links (URLs)
+✅ 1. Hover Before You Click
+        a. Action: Hover your mouse over the link (don’t click!).
+
+        b. Check: The actual URL will show in the bottom-left of your browser or email client.
+
+        c. Red Flags:
+
+        d. Misspelled domains (e.g., micr0soft.com instead of microsoft.com)
+
+        e. IP addresses instead of domain names (e.g., http://192.168.1.2/login)
+
+        f. Suspicious domain endings (e.g., .xyz, .top, .click, .tk)
+
+        g. Subdomains tricking you (e.g., paypal.com.scammer-site.com)
+
+🚩 2. Look for Obfuscation
+        a. Hidden in buttons, shortened URLs (bit.ly, tinyurl, etc.), or encoded (e.g., %68%74%74%70).
+
+        b. These can mask the real destination.
+
+            Tip: Use link expanders:
+
+            https://www.expandurl.net/
+            https://checkshorturl.com/
+
+
+# Common Dangerous File Types
+File Type	                          Risk
+
+.exe, .bat, .scr, .cmd	          Executable malware
+.js	                              Script-based malware
+.doc, .xls, .ppt with macros	    Malicious macro viruses
+.zip, .rar	                      Compressed malware or ransomware
+.pdf	                            Can contain scripts or phishing links
+
+
+# Examples of Unsafe Links
+
+1. Spoofed Domain
+hxxps://microsoft-support-login[.]com
+✅ Looks official, but it's not Microsoft's domain.
+❌ Microsoft uses *.microsoft.com, not this fake domain.
+
+2. Lookalike Characters
+hxxps://www.paypaI.com/login
+Uses an uppercase "I" (paypaI) instead of lowercase "l" (paypal).
+Visually identical, but leads to a malicious site.
+
+3. IP Address-Based Link
+hxxp://198.51.100.23/bank-login
+No domain name at all — uses a raw IP.
+Often used in malware distribution or fake login pages.
+
