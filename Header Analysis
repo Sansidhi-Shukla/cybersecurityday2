@@ -1,0 +1,28 @@
+What Is Online Header Analysis?
+Online header analysis is the process of using tools or services to analyze the full email headers of a received message in order to:
+
+  1. Identify the true sender
+
+  2. Detect forged/spoofed addresses
+
+  3. Check mail server IPs and geolocation
+
+  4. Review SPF, DKIM, and DMARC results
+
+  5. Trace the delivery route
+
+  6. Spot anomalies indicating phishing, spoofing, or spam
+
+  7. These tools help cybersecurity analysts, IT admins, and even everyday users determine whether an email is trustworthy.
+
+
+Popular Online Email Header Analysis Tools:
+  1. Google Admin Toolbox Messageheader
+
+  2. MXToolbox Email Header Analyzer
+
+  3. Mailheader.org
+
+  4. Cisco Talos Email Reputation Lookup
+
+A photo is added which uses Google admin Toolbox MessageHeader to analyse the header
