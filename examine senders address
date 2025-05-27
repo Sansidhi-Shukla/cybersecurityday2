@@ -9,3 +9,60 @@ For example, if you’re sending a phishing email that’s masquerading as a ban
 
 Lets analyse why the first one legit: 
       It is email sent from a service which provides cloud secure services on the desktop. We can decipher this from the senders email itself.
+
+The email address:
+
+desktop-support@securesupportcloud[.]com
+
+is a good phishing sender because it appears legitimate at first glance, and uses psychological and technical tactics to trick users. Here's why it's effective from a phishing perspective:
+
+🎯 1. Looks Like IT/Tech Support
+desktop-support@... implies a help desk or internal IT team.
+
+Many organizations have similar support emails.
+
+Users are conditioned to trust and respond to such addresses, especially when they reference:
+
+Password resets
+
+Account security
+
+System updates
+
+🌐 2. Domain Seems Professional
+securesupportcloud.com sounds like a real tech/cloud security service.
+
+Words like:
+
+secure
+
+support
+
+cloud
+evoke trust and imply legitimacy.
+
+🔎 But it’s fake:
+It’s not a known brand like Microsoft or AWS.
+
+It may be a newly registered domain used only for phishing.
+
+🕵️ 3. Bypasses Quick Suspicion
+No obvious red flags like freegift123@yahoo.com or randomdomain.ru.
+
+Uses business-style formatting to evade basic spam/phishing filters.
+
+📬 4. Spoofs Real Roles
+Targets are more likely to respond to:
+
+IT support
+
+Security alerts
+
+Admin account actions
+
+🧠 5. Psychological Pressure
+Phishing emails from such addresses often use urgency, like:
+
+“Your account has been compromised. Click here to verify immediately.”
+
+Combined with a realistic sender, users may click before thinking.
